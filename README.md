@@ -1,3 +1,4 @@
+<<<<<<< .mine
 # yolov5
 
 The Pytorch implementation is [ultralytics/yolov5](https://github.com/ultralytics/yolov5).
@@ -93,3 +94,100 @@ python yolov5_trt_cuda_python.py
 
 See the readme in [home page.](https://github.com/wang-xinyu/tensorrtx)
 
+=======
+# hello-world
+Just another repository
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> .theirs
